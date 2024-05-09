@@ -9,3 +9,4 @@ No, it's not the best way to test it, I can use it to test isolated parts.
 Yes, like last questtion, i can use it to test isolated parts, The test is a part of the project. so unit test is perfect.
 
 https://jianingyue.github.io/Lab5_Starter/expose.html
+https://jianingyue.github.io/Lab5_Starter/explore.html
